@@ -1,5 +1,18 @@
 [
   {
+    "version": 8.01,
+    "versionString": "8.0.1",
+    "correcciones": [
+      "-"
+    ],
+    "agregados": [
+      "version name adjustment"
+    ],
+    "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RUJEFUPTADER/main/apks/app-v8.0.1.apk",
+    "fecha": "2026-02-28T01:23:35.101Z",
+    "tamaño": "14.43 MB"
+  },
+  {
     "version": 8,
     "versionString": "8.0.0",
     "correcciones": [
@@ -10,6 +23,6 @@
     ],
     "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RUJEFUPTADER/main/apks/app-v8.0.0.apk",
     "fecha": "2026-02-28T01:19:29.157Z",
-    "tamaño": "14.42 MB"
+    "tamaÃ±o": "14.42 MB"
   }
 ]
