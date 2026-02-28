@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "version": 8,
+    "versionString": "8.0.0",
+    "correcciones": [
+      "test"
+    ],
+    "agregados": [
+      "test"
+    ],
+    "apkUrl": "https://raw.githubusercontent.com/RMSOFF/RUJEFUPTADER/main/apks/app-v8.0.0.apk",
+    "fecha": "2026-02-28T01:19:29.157Z",
+    "tamaño": "14.42 MB"
+  }
+]
